@@ -1,0 +1,13 @@
+transformers==4.51.3
+sentence_transformers
+torch
+pinecone
+langchain-huggingface
+fastapi
+uvicorn
+pydantic
+pypdf2
+python-multipart
+protobuf
+sentencepiece
+autoawq
