@@ -2,6 +2,8 @@
 
 A local benchmarking tool for evaluating and optimizing RAG (Retrieval-Augmented Generation) pipeline configurations. Compare different embedding models, chunk sizes, and LLMs to find the optimal setup for your use case.
 
+**Why this project exists:** When building a RAG system, choosing the right combination of embedding model, chunk size, LLM, and other hyperparameters is rarely obvious. The only reliable way to know what works best for a specific dataset — whether that's legal documents, medical records, or academic papers — is trial and error. RAG Bench makes that process systematic: you can run structured evaluations against your own data and let the results tell you which configuration actually performs best for your use case.
+
 **`RAG Bench` is a work in progress.**
 
 ## How to Run
